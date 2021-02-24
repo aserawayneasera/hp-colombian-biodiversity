@@ -21,13 +21,13 @@ Los ejemplos de citas presentados aquí siguen el formato de estilo Harvard. Por
 La mayoría de descargas desde el SiB Colombia contienen datos de múltiples conjuntos de datos (como se explica en el siguiente apartado), pero en algunos casos, como un reporte interno o el avance de publicación de un conjunto de datos, los usuarios pueden necesitar los  conjuntos de datos por separado. 
 
 * Ejemplo cuando se trate de una organización:
-    Instituto Humboldt (2017) Colección Herbario Federico Medem Bogotá – FMB. Versión 32.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/ighftu (Consultado a través del SiB Colombia el 2020-04-10).
+    Instituto Humboldt (2017) Colección Herbario Federico Medem Bogotá – FMB. Versión 32.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. [https://doi.org/10.15472/ighftu](https://doi.org/10.15472/ighftu) (Consultado a través del SiB Colombia el 2020-04-10).
 
 * Ejemplo cuando se trate de varias organizaciones:
-    Instituto Humboldt, Cormacarena (2020) Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta. Versión 1.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/klubuj (Consultado a través del SiB Colombia el 2020-04-10).
+    Instituto Humboldt, Cormacarena (2020) Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta. Versión 1.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. [https://doi.org/10.15472/klubuj](https://doi.org/10.15472/klubuj) (Consultado a través del SiB Colombia el 2020-04-10).
 
 * Ejemplo cuando se trate de varias personas de una organización:
-    Sandoval Hernández J, Vergara D I, Estupiñan D L (2016) Monitoreo biológicos en la cuenca Frayle, ARA – RARE – CVC – Asociación Calidris. v2.2. Asociación para el estudio y conservación de las aves acuáticas en Colombia. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/e1oice (Consultado a través del SiB Colombia el 2020-04-10).
+    Sandoval Hernández J, Vergara D I, Estupiñan D L (2016) Monitoreo biológicos en la cuenca Frayle, ARA – RARE – CVC – Asociación Calidris. v2.2. Asociación para el estudio y conservación de las aves acuáticas en Colombia. Conjunto de datos: Registros biológicos. [https://doi.org/10.15472/e1oice](https://doi.org/10.15472/e1oice) (Consultado a través del SiB Colombia el 2020-04-10).
 
  
 # Cuando se trate de la descarga de una consulta de datos
@@ -36,10 +36,10 @@ Cuando se descargan datos a través de las plataformas del SiB Colombia, el usua
 El correo electrónico incluye la siguiente información:
 
 * Una URL temporal para la descarga de un archivo .zip con los datos consultados
-    Ejemplo:  http://190.25.232.2:731/api/download/13ae0c1a2c1a41560211227a7a74a91e.zip
+    Ejemplo:  [http://190.25.232.2:731/api/download/13ae0c1a2c1a41560211227a7a74a91e.zip](http://190.25.232.2:731/api/download/13ae0c1a2c1a41560211227a7a74a91e.zip)
 
 * Una URL a un formulario en línea para que el usuario reporte al SiB Colombia el motivo de la descarga.
-    Ejemplo: https://forms.gle/S1vo53AU9LUSip4h9
+    Ejemplo: [https://forms.gle/S1vo53AU9LUSip4h9](https://forms.gle/S1vo53AU9LUSip4h9)
 
 * Los lineamientos para su correcta la correcta citación.
 
@@ -89,11 +89,11 @@ El SiB Colombia realiza periódicamente una síntesis de la gestión del conocim
 
 Si la cifra corresponde a un síntesis derivada exclusivamente de los datos publicados a través del SiB Colombia, ejemplo para la cifra nacional de especies de mamíferos registrados en el SiB Colombia:
 
-* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras: Número de especies de mamíferos registrados en el SiB Colombia_. Consultado a través del SiB Colombia. Disponible en https://cifras.biodiversidad.co/
+* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras: Número de especies de mamíferos registrados en el SiB Colombia_. Consultado a través del SiB Colombia. Disponible en [https://cifras.biodiversidad.co/](https://cifras.biodiversidad.co/)
 
 Ejemplo para la cifra total de especies registradas en el SiB Colombia:
 
-* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras: Número de especies registradas en el SiB Colombia_. Consultado a través del SiB Colombia. Disponible en https://cifras.biodiversidad.co/
+* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras: Número de especies registradas en el SiB Colombia_. Consultado a través del SiB Colombia. Disponible en https://cifras.biodiversidad.co/]
 
 Si la cifra corresponde a un síntesis derivada exclusivamente de los datos publicados a través del SiB Colombia suministrada por el Equipo Coordinador a través de una consulta directa, ejemplo para la cifra de especies endémicas de los bosques de Colombia que están registradas en el SiB Colombia:
 
